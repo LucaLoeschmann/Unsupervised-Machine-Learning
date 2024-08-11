@@ -40,7 +40,7 @@ The dataset contains the following audio features ([Spotify Web API documentatio
 
 - Effectiveness: The audio features provided by Spotify were moderately effective in identifying similar songs as defined by humanly detectable criteria. Some songs in the playlists fit together very well, while others were a mixed bag.
   
--Limitations: Music is very subjective, so whether the clustering was successful or not is naturally in the eye of the beholder. This clustering is also based on Spotify’s audio features, which often appear arbitrary.
+- Limitations: Music is very subjective, so whether the clustering was successful or not is naturally in the eye of the beholder. This clustering is also based on Spotify’s audio features, which often appear arbitrary.
 
 ## Next Steps 
 

@@ -6,9 +6,9 @@ In this project, I am working for the fictitious company Moosic, a start-up that
 
 ## Objectives
 
-	1.	Assess whether Spotify’s audio features (such as tempo, energy, danceability, etc.) can effectively identify “similar songs” based on humanly detectable criteria.
-	2.	Evaluate the effectiveness of K-Means clustering as a method for creating music playlists.
-	3.	Provide a prototype of automated playlist creation that can be refined in collaboration with Moosic’s music experts.
+- Assess whether Spotify’s audio features (such as tempo, energy, danceability, etc.) can effectively identify “similar songs” based on humanly detectable criteria.
+- Evaluate the effectiveness of K-Means clustering as a method for creating music playlists.
+- Provide a prototype of automated playlist creation that can be refined in collaboration with Moosic’s music experts.
 
 ## Data Overview
 
